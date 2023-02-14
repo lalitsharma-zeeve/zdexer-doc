@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_documentation_tool=self.webpackChunkapi_documentation_tool||[]).push([[4427],{40936:o=>{o.exports=JSON.parse('{"permalink":"/ledger-api-doc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
